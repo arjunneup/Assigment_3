@@ -1,6 +1,31 @@
-﻿<Properties StartupConfiguration="{4F02448E-BE7E-4AE3-B544-72A8B0998D02}|Default">
-  <MonoDevelop.Ide.ItemProperties.MDM__3.iOS FirstBuild="True" />
+﻿<Properties StartupConfiguration="{5CDC8E5E-757B-4ECF-A775-2E621F388342}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MDM_3/MainPage.xaml.cs" Line="8" Column="6" />
+      <File FileName="MDM_3/MainPage.xaml" Line="13" Column="15" />
+      <File FileName="MDM_3/Models/films.cs" Line="7" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MDM_3" expanded="True">
+            <Node name="MDM_3" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MDM__3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4929076B-487E-4FBC-9959-C96DBB922DA0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MDM__3.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.MDM__3 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MDM__3.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3_XL_Edited_API_23" />
 </Properties>

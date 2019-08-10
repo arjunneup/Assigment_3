@@ -4,7 +4,11 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MDM_3.Models;
 using Xamarin.Forms;
+using GraphQL.Common.Request;
+using GraphQL.Common.Response;
+using GraphQL.Client;
 
 namespace MDM_3
 {
@@ -16,6 +20,21 @@ namespace MDM_3
         public MainPage()
         {
             InitializeComponent();
+        }
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
+            var client = new GraphQLClient("https://swapi.apis.guru");
+
+            GraphQLRequest graphQLRequest = new GraphQLRequest
+            {
+                Query = "query{ allFilms {films { id, title, director } } }"
+
+            };
+          GraphQLResponse graphQLResponse = await client.PostAsync(graphQLRequest);
+
+            filmlist.ItemsSource = graphQLResponse.Data.allFilms.films.ToObject<List<films>>();
+
         }
     }
 }
