@@ -1,0 +1,12 @@
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MDM_3.csprojAssemblyReference.cache
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MDM_3.csproj.CoreCompileInputs.cache
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MDM_3.AssemblyInfoInputs.cache
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MDM_3.AssemblyInfo.cs
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MDM_3.dll
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/MDM_3.pdb
+/Users/arjunneupane/Projects/MDM_3/MDM_3/bin/Debug/netstandard2.0/MDM_3.deps.json
+/Users/arjunneupane/Projects/MDM_3/MDM_3/bin/Debug/netstandard2.0/MDM_3.dll
+/Users/arjunneupane/Projects/MDM_3/MDM_3/bin/Debug/netstandard2.0/MDM_3.pdb
+/Users/arjunneupane/Projects/MDM_3/MDM_3/obj/Debug/netstandard2.0/XamlC.stamp
